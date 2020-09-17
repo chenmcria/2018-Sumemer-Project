@@ -6,6 +6,10 @@ login interface, spending management interface and spending data interface. It e
 data from files.
 
 Technologies and Packages:
+
 Java 
+
+Swing
+
 JFrame
 
